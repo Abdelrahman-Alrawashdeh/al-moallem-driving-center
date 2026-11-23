@@ -1,0 +1,9 @@
+{
+ "inspection":{"title":"DVSA — فحص الشاحنات قبل الرحلة","url":"https://www.gov.uk/guidance/carry-out-daily-heavy-goods-vehicle-hgv-walkaround-checks","license":"OGL-3.0","kind":"adapted-web","scope":"مبادئ السلامة الفنية؛ لا تنقل اشتراطات الترخيص البريطانية إلى الأردن"},
+ "loading":{"title":"DVSA — مبادئ توزيع الحمولة وتثبيتها","url":"https://www.gov.uk/guidance/securing-loads-on-hgvs-and-goods-vehicles/2-load-securing-the-basics","license":"OGL-3.0","kind":"adapted-web","scope":"مبادئ فنية دون الحدود القانونية الأجنبية للأوزان أو قوى التثبيت"},
+ "restraint":{"title":"DVSA — وسائل تثبيت الحمولة","url":"https://www.gov.uk/guidance/securing-loads-on-hgvs-and-goods-vehicles/4-ways-to-secure-a-load-in-an-hgv-or-goods-vehicle","license":"OGL-3.0","kind":"adapted-web","scope":"مبادئ اختيار المعدات وسلامتها"},
+ "shift":{"title":"DVSA — التعامل مع تحرك الحمولة","url":"https://www.gov.uk/guidance/securing-loads-on-hgvs-and-goods-vehicles/3-what-to-do-if-a-load-becomes-unstable-during-a-journey","license":"OGL-3.0","kind":"adapted-web","scope":"سلامة التصرف؛ لا تتضمن أرقام الطوارئ أو الإجراءات القانونية البريطانية"},
+ "bus":{"title":"DVSA — فحص الحافلات وسلامة الركاب","url":"https://www.gov.uk/guidance/carry-out-psv-daily-walkaround-checks","license":"OGL-3.0","kind":"adapted-web","scope":"فحص السلامة الفني فقط؛ دون اشتراطات التجهيز القانونية البريطانية"},
+ "coupling":{"title":"HSE — وصل المقطورات وفصلها بأمان","url":"https://www.hse.gov.uk/workplacetransport/information/coupling.htm","license":"OGL-3.0","kind":"adapted-web","scope":"مبادئ عامة للمقطورات القياسية؛ تعليمات المصنع وإجراءات المدرب مقدمة في التطبيق العملي"},
+ "jordan":{"title":"إدارة ترخيص السواقين والمركبات الأردنية — فئات الرخص","url":"https://www.dvld.gov.jo/Ar/Modules/Faq","kind":"adapted-web","scope":"تعريف الفئتين الخامسة والسادسة وفق صفحة إدارة الترخيص"}
+}

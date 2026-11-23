@@ -1,0 +1,1868 @@
+[
+  {
+    "id": "form-3-q01",
+    "image": "content/sources/heavy-originals/form-3-q01.png",
+    "matchScore": 0.979,
+    "referenceId": "640",
+    "text": "في حال قيام سائق المركبة الثقيلة بالتجاوز اثناء الليل فعليه:",
+    "options": [
+      "قطع الطريق على سائقي مركبات اخرى.",
+      "اجبار المركبات الأخرى على الانحراف عن مسارها .",
+      "الانتباه إلى المركبات القادمة خاصة اذا لم تكن انارة الطريق كافية.",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "667"
+  },
+  {
+    "id": "form-3-q02",
+    "image": "content/sources/heavy-originals/form-3-q02.png",
+    "matchScore": 0.991,
+    "referenceId": "638",
+    "text": "إذا كان هناك اي احتمال لتشكل الضباب اثناء الليل فانه يفضل لسائقي المركبات الثقيلة:",
+    "options": [
+      "إستخدام الأضواء الرباعية (الفلشر).",
+      "إستخدام الضوء العالي.",
+      "عدم القيادة.",
+      "د- جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "639"
+  },
+  {
+    "id": "form-3-q03",
+    "image": "content/sources/heavy-originals/form-3-q03.png",
+    "matchScore": 0.965,
+    "referenceId": "637",
+    "text": "من الحالات التي يسمح بها بإطفاء الانوار:",
+    "options": [
+      "مواقف المركبات الثقيلة على الطريق بوجود التجهيزات اللازمة .",
+      "عند الوقوف على طرف الطريق في الليل .",
+      "عند الوقوف على مسارب الطوارئ .",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "880"
+  },
+  {
+    "id": "form-3-q04",
+    "image": "content/sources/heavy-originals/form-3-q04.png",
+    "matchScore": 0.957,
+    "referenceId": "665",
+    "text": "من المواقع التي تكثر فيها حركة الرياح الشديدة :",
+    "options": [
+      "الطرق والجسور المرتفعة ذات المناسيب العالية.",
+      "الجسور الموجودة في مناطق مفتوحة مكشوفة.",
+      "مقاطع الطرق الموجودة ضمن مناطق مفتوحة مكشوفة.",
+      "جميع ما ذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "852"
+  },
+  {
+    "id": "form-3-q05",
+    "image": "content/sources/heavy-originals/form-3-q05.png",
+    "matchScore": 0.952,
+    "referenceId": "646",
+    "text": "من أكثر مستخدمي الطريق تأثراً بالرياح الجانبية :",
+    "options": [
+      "سائقي الدراجات الآلية.",
+      "سائقي السيارات الصغيرة ذات 4 اسطوانات.",
+      "سائقي سيارات النقل المشترك.",
+      "سائقي مركبات نقل الأثاث."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "866"
+  },
+  {
+    "id": "form-3-q06",
+    "image": "content/sources/heavy-originals/form-3-q06.png",
+    "matchScore": 0.923,
+    "referenceId": "645",
+    "text": "من المناطق التي يجب الحذر من تأثير قوة الرياح الجانبية على مستخدمي الطريق الآخرين:",
+    "options": [
+      "مناطق الجسور عند عبورها.",
+      "الأنفاق .",
+      "التقاطعات المكشوفة.",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "773"
+  },
+  {
+    "id": "form-3-q07",
+    "image": "content/sources/heavy-originals/form-3-q07.png",
+    "matchScore": 0.998,
+    "referenceId": "644",
+    "text": "من الاحتياطات اللازمة التي يجب على سائقي المركبات الثقيلة إتخاذها اثناء الأمطار الخفيفة:",
+    "options": [
+      "استخدام أنوار الضوء العالي بحيث يلاحظ السائقون الآخرون وجود المركبة.",
+      "زيادة السرعة للتغلب على بعض العوائق على سطح الطريق .",
+      "استخدام قاعدة الثانيتين.",
+      "التأكد من صلاحية عمل جميع ماسحات الزجاج ومزيل الضباب."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "833"
+  },
+  {
+    "id": "form-3-q08",
+    "image": "content/sources/heavy-originals/form-3-q08.png",
+    "matchScore": 0.996,
+    "referenceId": "643",
+    "text": "اذا ما تم الاشتباه بوجود عطل ميكانيكي في المركبات الثقيلة فيجب على السائق:",
+    "options": [
+      "إكمال رحلته كالمعتاد لأن مشكلة صغيرة لاتحدث اضرار كبيرة.",
+      "عدم إكمال رحلته لأن مشكلة صغيرة قد تتحول الى خطر كبير.",
+      "متابعة رحلته قدر المستطاع وبحذر وعلى يمين الطريق.",
+      "إيجاد طريق بديل للسير عليه حتى يكون اقل خطورة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "642"
+  },
+  {
+    "id": "form-3-q09",
+    "image": "content/sources/heavy-originals/form-3-q09.png",
+    "matchScore": 1.0,
+    "referenceId": "642",
+    "text": "عند تعطل المركبة أثناء الليل فيجب :",
+    "options": [
+      "التوقف مباشرة وعدم التحرك من مكان التعطل تجنباً لحصول عواقب غير أمنه لمستعملي الطريق الآخرين.",
+      "التوقف على الأرصفة ان أمكن ذلك.",
+      "إتخاذ أقصى يمين الطريق قدر المستطاع.",
+      "تجنب التوقف نهائيا لما يشكل ذلك من خطورة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "701"
+  },
+  {
+    "id": "form-3-q10",
+    "image": "content/sources/heavy-originals/form-3-q10.png",
+    "matchScore": 0.947,
+    "referenceId": "641",
+    "text": "عند قيام السائقين الآخرين بالتجاوز عن مركبتك اثناء الليل فيجب عليك:",
+    "options": [
+      "إستخدام الضوء العالي لإضاءة الطريق لهم ليحصلوا على الرؤية المناسبة .",
+      "إستخدام أنوار التلاقي لحين مرورهم والابتعاد عن مركبتك.",
+      "عدم إستعمال الأنوار لأنك تسبب الإبهار في عيونهم.",
+      "لاشئ مماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "649"
+  },
+  {
+    "id": "form-3-q11",
+    "image": "content/sources/heavy-originals/form-3-q11.png",
+    "matchScore": 0.916,
+    "referenceId": "690",
+    "text": "يجوز اصطفاف أو مبيت وسائط نقل المواد الخطرة أو المواد القابلة للانفجار في الأماكن المأهولة بالسكان بعد الحصول على تصريح بذلك.",
+    "options": [
+      "صحيح .",
+      "خاطئ ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "889"
+  },
+  {
+    "id": "form-3-q12",
+    "image": "content/sources/heavy-originals/form-3-q12.png",
+    "matchScore": 1.0,
+    "referenceId": "689",
+    "text": "من أسباب تغطية الحمولة :",
+    "options": [
+      "المحافظة على توازن المركبة .",
+      "منع الحمولة من التحرك .",
+      "تقليل قوى الطرد المركزي المؤثرة على الحمولة .",
+      "حماية الحمولة من العوامل الجوية ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "687"
+  },
+  {
+    "id": "form-3-q13",
+    "image": "content/sources/heavy-originals/form-3-q13.png",
+    "matchScore": 0.875,
+    "referenceId": "688",
+    "text": "في الشاحنات المغلقة ترتيب الحمولة غير ضروري لأنه لا يؤثر على توجيه المركبة :",
+    "options": [
+      "صحيح .",
+      "خاطئ ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "885"
+  },
+  {
+    "id": "form-3-q14",
+    "image": "content/sources/heavy-originals/form-3-q14.png",
+    "matchScore": 1.0,
+    "referenceId": "687",
+    "text": "تستعمل مثبتات الحمولة:",
+    "options": [
+      "لمنع الحمولة من التحرك .",
+      "لرفع الحمولة عن سطح المركبة لتقليل الاحتكاك .",
+      "لتحديد نهايات الحمولة وأطرافها .",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "689"
+  },
+  {
+    "id": "form-3-q15",
+    "image": "content/sources/heavy-originals/form-3-q15.png",
+    "matchScore": 0.795,
+    "referenceId": "710",
+    "text": "الفترة الزمنية التي يستطيع فيها السائق التقدم في طلب الحصول على الرخصة من الفئة الرابعة من تاريخ حصوله على رخصة سوق من الفئة الثالثة (1) هي:",
+    "options": [
+      "سنة واحدة.",
+      "سنتين.",
+      "ثلاث سنوات.",
+      "أربع سنوات."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "711"
+  },
+  {
+    "id": "form-3-q16",
+    "image": "content/sources/heavy-originals/form-3-q16.png",
+    "matchScore": 0.769,
+    "referenceId": "711",
+    "text": "الفترة الزمنية التي يستطيع فيها السائق التقدم في طلب الحصول على الرخصة من الفئة الخامسة من تاريخ حصوله على رخصة سوق من الفئة الرابعة هي:",
+    "options": [
+      "سنة .",
+      "سنتين.",
+      "ثلاث سنوات.",
+      "أربع سنوات."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "710"
+  },
+  {
+    "id": "form-3-q17",
+    "image": "content/sources/heavy-originals/form-3-q17.png",
+    "matchScore": 0.969,
+    "referenceId": "664",
+    "text": "عند القيادة أثناء المطر الشديد على الطريق يجب ترك مسافات أمان تقدر :",
+    "options": [
+      "بضعف الوضع الطبيعي",
+      "بضعفي الوضع الطبيعي",
+      "بثلاثة أضعاف الوضع الطبيعي.",
+      "بأربعة أضعاف الوضع الطبيعي."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "648"
+  },
+  {
+    "id": "form-3-q18",
+    "image": "content/sources/heavy-originals/form-3-q18.png",
+    "matchScore": 0.99,
+    "referenceId": "663",
+    "text": "عند القيادة على الجليد يجب على سائقي المركبات الثقيلة:",
+    "options": [
+      "ترك مسافات آمان كافية بين المركبات، بحيث تكون عشرة اضعاف الظروف العادية.",
+      "كذلك يجب استخدام الفرامل بشكل مفاجئ.",
+      "توجيه المقود بحركات سريعة وعنيفة .",
+      "زيادة السرعة بشكل مفاجئ وتجنب الزيادات التدريجية."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "818"
+  },
+  {
+    "id": "form-3-q19",
+    "image": "content/sources/heavy-originals/form-3-q19.png",
+    "matchScore": 0.953,
+    "referenceId": "662",
+    "text": "ان من افضل الوسائل للتعامل مع تراكم الثلج:",
+    "options": [
+      "عدم القيادة والبقاء في البيت إلا للضرورة.",
+      "القيادة بسرعة مع استخدام الغيار المناسب للمركبة بحيث تتلائم مع ظروف سطح الطريق الذي يسير عليه.",
+      "زيادة عزم المحرك المركبة في حالة الثلج العميق لزيادة الإحتكاك.",
+      "تجنب استخدام سلاسل الثلج خاصة في حالات صعود المرتفعات ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "653"
+  },
+  {
+    "id": "form-3-q20",
+    "image": "content/sources/heavy-originals/form-3-q20.png",
+    "matchScore": 0.948,
+    "referenceId": "661",
+    "text": "ان الدوس على دواسة الوقود بشكل كبير عند إنغراس العجلات في الثلج المتراكم يؤدي الى:",
+    "options": [
+      "زيادة عدد دورات المحرك وبالتالي زيادة عزم المحرك مما يؤدي الى الخروج من هذه المأزق.",
+      "زيادة عدد دورات العجلات وبالتالي زيادة الإحتكاك حولها ومن ثم الخروج.",
+      "هريان الإطارات لكن في المحصلة يؤدي الى الخروج من هذه المأزق.",
+      "حفر العجلات لأخاديد في الثلج اعمق بالتالي زيادة صعوبة الخروج من هذه المأزق ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "660"
+  },
+  {
+    "id": "form-3-q21",
+    "image": "content/sources/heavy-originals/form-3-q21.png",
+    "matchScore": 0.959,
+    "referenceId": "659",
+    "text": "عندما تغرز المركبة في ثلج متراكم فيجب :",
+    "options": [
+      "استخدام غيار الدفع الرباعي لزيادة قوة السحب وإلغاء عمل الدفع الرباعي عند عودة التماسك مع سطح الطريق.",
+      "عدم استخدام غيار الدفع الرباعي لأنه يقلل من قوة السحب .",
+      "إبقاء المركبة في مكانها لحين وصول المساعدات.",
+      "لا شىء مما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "855"
+  },
+  {
+    "id": "form-3-q22",
+    "image": "content/sources/heavy-originals/form-3-q22.png",
+    "matchScore": 0.929,
+    "referenceId": "655",
+    "text": "عند القيادة بالعواصف البردية يجب على سائقي المركبات الثقيلة:",
+    "options": [
+      "القيادة ببطئ.",
+      "عدم تشغيل الاضوية.",
+      "تجنب ايقاف المركبة.",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "636"
+  },
+  {
+    "id": "form-3-q23",
+    "image": "content/sources/heavy-originals/form-3-q23.png",
+    "matchScore": 0.942,
+    "referenceId": "654",
+    "text": "في حال عدم وجود مكان آمن لإيقاف المركبات الثقيلة خارج الطريق يسمح بإيقاف المركبات الثقيلة على الطريق العام أو بالقرب منه:",
+    "options": [
+      "نعم",
+      "لا"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "655"
+  },
+  {
+    "id": "form-3-q24",
+    "image": "content/sources/heavy-originals/form-3-q24.png",
+    "matchScore": 0.976,
+    "referenceId": "653",
+    "text": "عند مواجهة سائق المركبات الثقيلة الضباب والغبار الكثيف فعليه:",
+    "options": [
+      "زيادة سرعة مركبته وبشكل ثابت.",
+      "استعمل الضوء المرتفع حيث ان الضوء المنخفض يرتد إليك.",
+      "تجنب إستخدام أنوار الطوارئ (الفلشر).",
+      "استعمل علامات سطح الطريق كدليل إرشادي لك عند القيادة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "833"
+  },
+  {
+    "id": "form-3-q25",
+    "image": "content/sources/heavy-originals/form-3-q25.png",
+    "matchScore": 0.952,
+    "referenceId": "652",
+    "text": "المحرك يستهلك كميات اضافية من الزيوت:",
+    "options": [
+      "في درجات الحرارة العالية",
+      "في درجات الحرارة المنخفضة",
+      "درجات الحرارة لاتؤثر على إستهلاك الزيوت."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "854"
+  },
+  {
+    "id": "form-3-q26",
+    "image": "content/sources/heavy-originals/form-3-q26.png",
+    "matchScore": 0.974,
+    "referenceId": "650",
+    "text": "عند تعرضك لأشعة الشمس المواجهة لك بصورة مباشرة يجب عليك:",
+    "options": [
+      "إرتداء نظارات شمسية .",
+      "زيادة سرعتك .",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "7"
+  },
+  {
+    "id": "form-3-q27",
+    "image": "content/sources/heavy-originals/form-3-q27.png",
+    "matchScore": 0.971,
+    "referenceId": "648",
+    "text": "عند وجود جليد على الطريق يجب ترك مسافات أمان تقدر :",
+    "options": [
+      "بثلاثة أضعاف الوضع الطبيعي.",
+      "بخمسة أضعاف الوضع الطبيعي.",
+      "بسبعة اضعاف الوضع الطبيعي.",
+      "بعشرة أضعاف الوضع الطبيعي."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "664"
+  },
+  {
+    "id": "form-3-q28",
+    "image": "content/sources/heavy-originals/form-3-q28.png",
+    "matchScore": 0.934,
+    "referenceId": "647",
+    "text": "عند وجود الجليد على الطريق فإن حركة المقود تكون:",
+    "options": [
+      "خفيفة .",
+      "ثقيلة .",
+      "لايحدث عليها اي تغيير لأن حجم الإطارات كبير."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "658"
+  },
+  {
+    "id": "form-3-q29",
+    "image": "content/sources/heavy-originals/form-3-q29.png",
+    "matchScore": 0.996,
+    "referenceId": "649",
+    "text": "عند وجود الضباب على الطريق يجب:",
+    "options": [
+      "استخدام أنوار التلاقي.",
+      "استخدام أنوار الضوء العالي.",
+      "إستخدام الأنوار الرباعية (الفلشر).",
+      "عدم استخدام الانارة نهائياً"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "639"
+  },
+  {
+    "id": "form-3-q30",
+    "image": "content/sources/heavy-originals/form-3-q30.png",
+    "matchScore": 0.988,
+    "referenceId": "651",
+    "text": "من عيوب الإطارات في المركبات الثقيلة ما يلي:",
+    "options": [
+      "عمق الفرزات .",
+      "حالة سطح الاطار (الكاوشوك).",
+      "وجود أسلاك بارزة من جدران الاطار.",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "852"
+  },
+  {
+    "id": "form-3-q31",
+    "image": "content/sources/heavy-originals/form-3-q31.png",
+    "matchScore": 0.892,
+    "referenceId": "656",
+    "text": "في حالة تساقط الثلج تتعرض المركبة :",
+    "options": [
+      "لتماسك اقل مع سطح الطريق .",
+      "لتماسك اكبر مع سطح الطريق .",
+      "الثلج لايؤثر على التماسك انما عوامل اخرى."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "747"
+  },
+  {
+    "id": "form-3-q32",
+    "image": "content/sources/heavy-originals/form-3-q32.png",
+    "matchScore": 1.0,
+    "referenceId": "657",
+    "text": "من الإجراءات التي تؤثر على القيادة عند او اثناء تساقط الثلوج:",
+    "options": [
+      "إزالة الثلج من أعلى سطح المركبة.",
+      "إزالة الثلج من شبكات دخول الهواء.",
+      "تنظيف الحذاء قبل الدخول إلى المركبة.",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "765"
+  },
+  {
+    "id": "form-3-q33",
+    "image": "content/sources/heavy-originals/form-3-q33.png",
+    "matchScore": 0.982,
+    "referenceId": "658",
+    "text": "من اخطر الحالات التي يتواجد فيها الثلج على سطح الطريق:",
+    "options": [
+      "الثلج الكثيف .",
+      "الوحل الجليدي .",
+      "الثلج المتراكم مع طبقة من الجليد ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "656"
+  },
+  {
+    "id": "form-3-q34",
+    "image": "content/sources/heavy-originals/form-3-q34.png",
+    "matchScore": 0.931,
+    "referenceId": "639",
+    "text": "في حال عدم وجود مركبات قادمة باتجاه سائقي المركبات الثقيلة فعليهم استخدام:",
+    "options": [
+      "(الضوء العالي) لرؤية ابعد ما يمكن رؤيته.",
+      "إستخدام أنوار التلاقي .",
+      "إستخدام الأضواء الرباعية (الفلشر).",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "649"
+  },
+  {
+    "id": "form-3-q35",
+    "image": "content/sources/heavy-originals/form-3-q35.png",
+    "matchScore": 0.936,
+    "referenceId": "712",
+    "text": "رخصة السوق من الفئة الخامسة تصنف بأنها:",
+    "options": [
+      "رخصة سوق لقيادة مركبة يقل وزنها الإجمالي عن ثلاثين طن أو سيارة ركوب لا يزيد عدد ركابها عن عشرين راكبا بما فيهم السائق.",
+      "رخصة قيادة حافلة متوسطة أو مركبة يزيد وزنها الإجمالي على سبعة أطنان ونصف الطن .",
+      "رخصة سوق لقيادة مركبة يقل وزنها الإجمالي عن عشرين طن أو سيارة ركوب لا يزيد عدد ركابها عن ثلاثين راكبا بما فيهم السائق.",
+      "رخصة سوق لقيادة مركبة وزنها الإجمالي عشرون طنا أو أكثر أو قاطرة ومقطورة أو رأس قاطرة ونصف مقطورة ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "714"
+  },
+  {
+    "id": "form-3-q36",
+    "image": "content/sources/heavy-originals/form-3-q36.png",
+    "matchScore": 0.937,
+    "referenceId": "713",
+    "text": "رخصة السوق من الفئة السادسة (1) تصنف بأنها:",
+    "options": [
+      "رخصة سوق لقيادة مركبة لا يزيد وزنها الإجمالي على سبعة أطنان ونصف الطن أو سيارة ركوب عمومية لا يزيد عدد ركابها على تسعة ركاب بمن فيهم السائق .",
+      "رخصة سوق لقيادة مركبة يقل وزنها الإجمالي عن عشرين طنا أو سيارة ركوب لا يزيد عدد ركابها على ثلاثين راكبا بمن فيهم السائق .",
+      "رخصة قيادة قاطرة ومقطورة أو رأس قاطرة ونصف مقطورة .",
+      "لا شيء مما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "714"
+  },
+  {
+    "id": "form-3-q37",
+    "image": "content/sources/heavy-originals/form-3-q37.png",
+    "matchScore": 0.947,
+    "referenceId": "714",
+    "text": "تصنف رخصة القيادة من الفئة السادسة (2) بأنها :",
+    "options": [
+      "رخصة سوق لقيادة مركبة لا يزيد وزنها الإجمالي على سبعة أطنان ونصف الطن أو سيارة ركوب عمومية لا يزيد عدد ركابها على تسعة ركاب بمن فيهم السائق .",
+      "رخصة سوق لقيادة مركبة لا يقل وزنها الإجمالي عن عشرين طنا أو سيارة ركوب لا يزيد عدد ركابها على ثلاثين راكبا بمن فيهم السائق .",
+      "رخصة قيادة حافلة .",
+      "رخصة سوق لقيادة مركبة وزنها الإجمالي عشرون طنا أو أكثر أو قاطرة ومقطورة أو رأس قاطرة ونصف مقطورة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "713"
+  },
+  {
+    "id": "form-3-q38",
+    "image": "content/sources/heavy-originals/form-3-q38.png",
+    "matchScore": 0.99,
+    "referenceId": "715",
+    "text": "تصدر رخص السوق من الفئات الرابعة والخامسة والسادسة لمدة:",
+    "options": [
+      "ثلاث سنوات .",
+      "خمس سنوات .",
+      "سبع سنوات .",
+      "عشر سنوات ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "802"
+  },
+  {
+    "id": "form-3-q39",
+    "image": "content/sources/heavy-originals/form-3-q39.png",
+    "matchScore": 0.923,
+    "referenceId": "666",
+    "text": "يتأثر مستخدمي الطريق الآخرين في الظروف الجوية العاصفة عند قيامك بتجاوز مركباتهم:",
+    "options": [
+      "صحيح .",
+      "خاطئ ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "806"
+  },
+  {
+    "id": "form-3-q40",
+    "image": "content/sources/heavy-originals/form-3-q40.png",
+    "matchScore": 0.973,
+    "referenceId": "667",
+    "text": "عند قيادة المركبات الثقيلة وكان هناك حركة لمستخدمي الطريق من حولك فإنه يجب عليك:",
+    "options": [
+      "التركيز أثناء القيادة.",
+      "البقاء على حالة من الانتباه واليقظة والحذر.",
+      "مراقبة التغير في الحركة المرورية.",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "637"
+  },
+  {
+    "id": "form-3-q41",
+    "image": "content/sources/heavy-originals/form-3-q41.png",
+    "matchScore": 0.981,
+    "referenceId": "668",
+    "text": "عند وقوع حادث سير فإنه يجب على سائق المركبة الثقيلة:",
+    "options": [
+      "تنبيه المركبات الأخرى المقتربة من موقع الحادث باستخدام أنوار أللواحات (البرتقالي) .",
+      "إبقاء الأشخاص غير المصابين في مكان الحادث لحين وصول رجال الأمن.",
+      "تقديم الإسعافات الأولية حتى إذا لم تكن على علم بالإسعافات الأولية.",
+      "مساعدة المصابين إعطاءهم أي شئ يشربونه."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "640"
+  },
+  {
+    "id": "form-3-q42",
+    "image": "content/sources/heavy-originals/form-3-q42.png",
+    "matchScore": 0.959,
+    "referenceId": "679",
+    "text": "عند تعطل اضوية الإنارة في المركبة فإنه يجب عليك:",
+    "options": [
+      "تشغيل أنوار الطوارئ.",
+      "زيادة سرعة المركبة للخروج من هذا المأزق.",
+      "تغيير المسرب الذي تسير فيه لتجنب المركبات الأخرى",
+      "عدم محاولة إعادة تشغيل الأنوار بإطفائها لأنك قد تسبب في مشكلة اكبر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "674"
+  },
+  {
+    "id": "form-3-q43",
+    "image": "content/sources/heavy-originals/form-3-q43.png",
+    "matchScore": 0.987,
+    "referenceId": "674",
+    "text": "من إجراءات التعامل مع حالة انفجار الإطار:",
+    "options": [
+      "تخفيف سرعة المركبة باستخدام الفرامل.",
+      "الإمساك بالمقود بصورة جيدة وإبقاء المركبة بمسار متعرج.",
+      "تجنب تشغيل أنوار الطوارئ حتى لا تصيب المركبات الأخرى بالذعر.",
+      "تغيير المسرب بصورة تدريجية للخروج عن الطريق."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "679"
+  },
+  {
+    "id": "form-3-q44",
+    "image": "content/sources/heavy-originals/form-3-q44.png",
+    "matchScore": 0.964,
+    "referenceId": "675",
+    "text": "إن انفجار احد الإطارات الخلفية للمركبة أو المقطورة يشكل خطورة كبيرة بعكس انفجار الإطار الأمامي :",
+    "options": [
+      "نعم",
+      "لا"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "672"
+  },
+  {
+    "id": "form-3-q45",
+    "image": "content/sources/heavy-originals/form-3-q45.png",
+    "matchScore": 0.953,
+    "referenceId": "676",
+    "text": "زيادة الشد في براغي الإطارات تؤدي إلى:",
+    "options": [
+      "المحافظة على البراغي على المدى الطويل .",
+      "الإضرار بالبراغي على المدى الطويل.",
+      "المحافظة على الإطارات ثابتة.",
+      "التأثير على عمل نظام الفرملة(الضغط على الديسك)."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "768"
+  },
+  {
+    "id": "form-3-q46",
+    "image": "content/sources/heavy-originals/form-3-q46.png",
+    "matchScore": 0.994,
+    "referenceId": "677",
+    "text": "إذا حدث تعليق في دواسة الوقود واضطررت إلى الوقوف بسرعة فيجب عليك:",
+    "options": [
+      "الضغط على دواسة البريك بقوة حتى تتوقف.",
+      "تجنب وضع الغيار على المحايد.",
+      "عدم المحاولة لإطفاء المحرك.",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "680"
+  },
+  {
+    "id": "form-3-q47",
+    "image": "content/sources/heavy-originals/form-3-q47.png",
+    "matchScore": 0.958,
+    "referenceId": "673",
+    "text": "عند انفجار الإطار الخلفي فإن المركبة :",
+    "options": [
+      "تنحرف للجانب الذي انفجر به .",
+      "تنحرف بعكس الجانب الذي انفجر به.",
+      "تنحرف بشكل عشوائي.",
+      "لا تنحرف نتيجة انفجار الإطار."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "672"
+  },
+  {
+    "id": "form-3-q48",
+    "image": "content/sources/heavy-originals/form-3-q48.png",
+    "matchScore": 0.958,
+    "referenceId": "672",
+    "text": "عند انفجار الإطار الأمامي فإن المركبة :",
+    "options": [
+      "تنحرف للجانب الذي انفجر به .",
+      "تنحرف بعكس الجانب الذي انفجر به.",
+      "تنحرف بشكل عشوائي.",
+      "لا تنحرف نتيجة انفجار الإطار."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "673"
+  },
+  {
+    "id": "form-3-q49",
+    "image": "content/sources/heavy-originals/form-3-q49.png",
+    "matchScore": 0.993,
+    "referenceId": "678",
+    "text": "من الإجراءات الوقائية لمنع تعليق دواسة الوقود:",
+    "options": [
+      "تفقد نظام الوقود في المركبة .",
+      "التأكد من وضع نوع الوقود المناسب والخاص بتلك المركبة .",
+      "تفقد أرضية المركبة و دواسة الوقود وتزييت سلك دواسة الوقود.",
+      "استخدام حذاء ذو كعب قصير ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "684"
+  },
+  {
+    "id": "form-3-q50",
+    "image": "content/sources/heavy-originals/form-3-q50.png",
+    "matchScore": 0.959,
+    "referenceId": "679",
+    "text": "عند تعطل اضوية الإنارة في المركبة فإنه يجب عليك:",
+    "options": [
+      "تشغيل أنوار الطوارئ.",
+      "زيادة سرعة المركبة للخروج من هذا المأزق.",
+      "تغيير المسرب الذي تسير فيه لتجنب المركبات الأخرى",
+      "عدم محاولة إعادة تشغيل الأنوار بإطفائها لأنك قد تسبب في مشكلة اكبر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "674"
+  },
+  {
+    "id": "form-3-q51",
+    "image": "content/sources/heavy-originals/form-3-q51.png",
+    "matchScore": 1.0,
+    "referenceId": "680",
+    "text": "من الإجراءات عند توقف المحرك عن العمل:",
+    "options": [
+      "استخدام الغيارات الثقيلة.",
+      "تجنب الضغط على دواسة الفرامل.",
+      "عدم محاولة تشغيل المركبة باستعمال مفتاح التشغيل.",
+      "وضع الغيار على الوضع المحايد."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "818"
+  },
+  {
+    "id": "form-3-q52",
+    "image": "content/sources/heavy-originals/form-3-q52.png",
+    "matchScore": 0.862,
+    "referenceId": "681",
+    "text": "من المعدات الأساسية الواجب توافرها في المركبات الثقيلة:",
+    "options": [
+      "سلاسل ثلجية .",
+      "جهاز تحديد الموقع (GPS) .",
+      "بطانية .",
+      "جهاز راديو ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "803"
+  },
+  {
+    "id": "form-3-q53",
+    "image": "content/sources/heavy-originals/form-3-q53.png",
+    "matchScore": 0.929,
+    "referenceId": "682",
+    "text": "في الحافلات المحدد فيها أماكن للوقوف يجب أن تكون مزودة بمماسك اليدين العلوية والمتناسبة مع العدد المسموح لهم بالوقوف:",
+    "options": [
+      "صحيح .",
+      "خاطئ ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "683"
+  },
+  {
+    "id": "form-3-q54",
+    "image": "content/sources/heavy-originals/form-3-q54.png",
+    "matchScore": 1.0,
+    "referenceId": "683",
+    "text": "الحافلات المحدد فيها أماكن للوقوف يجب أن تكون:",
+    "options": [
+      "مزودة بمماسك اليدين العلوية .",
+      "مزودة بعامود عرضي على طول الحافلة من الداخل.",
+      "مزودة بمربعات وقوف أرضية لتحديد أماكن الركاب.",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "682"
+  },
+  {
+    "id": "form-3-q55",
+    "image": "content/sources/heavy-originals/form-3-q55.png",
+    "matchScore": 0.98,
+    "referenceId": "684",
+    "text": "يجب تفقد الحمولة من خلال:",
+    "options": [
+      "التعرف على الأوزان الزائدة بالنظر إلى شكلها العام.",
+      "التأكد من تثبيت الحمولة بشكل جيد .",
+      "معاينة وفحص الحمولة وطريقة توزيعها",
+      "جميع ما ذكر"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "861"
+  },
+  {
+    "id": "form-3-q56",
+    "image": "content/sources/heavy-originals/form-3-q56.png",
+    "matchScore": 0.857,
+    "referenceId": "685",
+    "text": "إن المسافة المثالية لمعاينة الحمولة وحمايتها مرة أخرى من بداية الرحلة تكون بعد:",
+    "options": [
+      "10 كم .",
+      "20 كم .",
+      "30 كم .",
+      "40 كم ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "733"
+  },
+  {
+    "id": "form-3-q57",
+    "image": "content/sources/heavy-originals/form-3-q57.png",
+    "matchScore": 0.95,
+    "referenceId": "686",
+    "text": "إن عدم وضع حمل محوري مناسب يتلاءم مع مواصفات المركبة يؤدي إلى:",
+    "options": [
+      "انحرافها عن مسارها.",
+      "تعطل الفرامل.",
+      "انفجار إطارات المحور الغير المحمل بصورة كبيرة .",
+      "إحداث تلف في مبدل السرعة (الجير)."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "757"
+  },
+  {
+    "id": "form-3-q58",
+    "image": "content/sources/heavy-originals/form-3-q58.png",
+    "matchScore": 1.0,
+    "referenceId": "687",
+    "text": "تستعمل مثبتات الحمولة:",
+    "options": [
+      "لمنع الحمولة من التحرك .",
+      "لرفع الحمولة عن سطح المركبة لتقليل الاحتكاك .",
+      "لتحديد نهايات الحمولة وأطرافها .",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "689"
+  },
+  {
+    "id": "form-3-q59",
+    "image": "content/sources/heavy-originals/form-3-q59.png",
+    "matchScore": 0.875,
+    "referenceId": "688",
+    "text": "في الشاحنات المغلقة ترتيب الحمولة غير ضروري لأنه لا يؤثر على توجيه المركبة :",
+    "options": [
+      "صحيح .",
+      "خاطئ ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "885"
+  },
+  {
+    "id": "form-3-q60",
+    "image": "content/sources/heavy-originals/form-3-q60.png",
+    "matchScore": 1.0,
+    "referenceId": "689",
+    "text": "من أسباب تغطية الحمولة :",
+    "options": [
+      "المحافظة على توازن المركبة .",
+      "منع الحمولة من التحرك .",
+      "تقليل قوى الطرد المركزي المؤثرة على الحمولة .",
+      "حماية الحمولة من العوامل الجوية ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "687"
+  },
+  {
+    "id": "form-4-q01",
+    "image": "content/sources/heavy-originals/form-4-q01.png",
+    "matchScore": 0.857,
+    "referenceId": "811",
+    "text": "في حال نقل الحمولات ذات الأحجام والأوزان الثقيلة التي لا يمكن تجزئتها يمنع سير المركبات فوق الجسور اذا زاد الوزن الاجمالي للمركبة أو مجموع المركبات على :",
+    "options": [
+      "(50)طن.",
+      "(60)طن.",
+      "(70)طن.",
+      "(80)طن."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "812"
+  },
+  {
+    "id": "form-4-q02",
+    "image": "content/sources/heavy-originals/form-4-q02.png",
+    "matchScore": 0.907,
+    "referenceId": "740",
+    "text": "ابعاد الملصق الارشادي هي الطول (70) سم والعرض (40) سم :",
+    "options": [
+      "صحيح",
+      "خاطئ"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "791"
+  },
+  {
+    "id": "form-4-q03",
+    "image": "content/sources/heavy-originals/form-4-q03.png",
+    "matchScore": 0.926,
+    "referenceId": "739",
+    "text": "إن طريقة تحميل المركبة المبينة في الرسم:",
+    "options": [
+      "صحيحة .",
+      "خاطئة ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "732"
+  },
+  {
+    "id": "form-4-q04",
+    "image": "content/sources/heavy-originals/form-4-q04.png",
+    "matchScore": 0.854,
+    "referenceId": "739",
+    "text": "إن طريقة تحميل المركبة المبينة في الرسم:",
+    "options": [
+      "صحيحة .",
+      "خاطئة ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "732"
+  },
+  {
+    "id": "form-4-q05",
+    "image": "content/sources/heavy-originals/form-4-q05.png",
+    "matchScore": 0.926,
+    "referenceId": "739",
+    "text": "إن طريقة تحميل المركبة المبينة في الرسم:",
+    "options": [
+      "صحيحة .",
+      "خاطئة ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "732"
+  },
+  {
+    "id": "form-4-q06",
+    "image": "content/sources/heavy-originals/form-4-q06.png",
+    "matchScore": 0.985,
+    "referenceId": "725",
+    "text": "إن وجود المركبة بهذه الطريقة:",
+    "options": [
+      "صحيح لأنها مثبتة بشكل جيد.",
+      "خاطئ لعدم موجود غطاء.",
+      "ممنوع لأن نقل مركبة على مركبة أخرى غير مسموح به .",
+      "لاشئ مماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "736"
+  },
+  {
+    "id": "form-4-q07",
+    "image": "content/sources/heavy-originals/form-4-q07.png",
+    "matchScore": 0.964,
+    "referenceId": "765",
+    "text": "يمكن لعجلات المركبة الداخلية القريبة من المنعطفات ان ترتفع عن مستوى سطح الطريق اذا حدث ما يلي :",
+    "options": [
+      "اذا كان مركز ثقل المركبة مرتفع.",
+      "اذا كانت السرعة زائدة اثناء الانعطاف.",
+      "قيادة المركبة على نفس مسار المنعطف.",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "766"
+  },
+  {
+    "id": "form-4-q08",
+    "image": "content/sources/heavy-originals/form-4-q08.png",
+    "matchScore": 0.919,
+    "referenceId": "764",
+    "text": "وفقا لحركة السوائل فان خطورة ظاهرة الامواج التي تحدث في المركبات تزداد نتيجة ازالة الواح الفصل الداخلية في المركبة:",
+    "options": [
+      "صحيح.",
+      "خطأ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "762"
+  },
+  {
+    "id": "form-4-q09",
+    "image": "content/sources/heavy-originals/form-4-q09.png",
+    "matchScore": 0.93,
+    "referenceId": "763",
+    "text": "وفقا حركة السوائل فان ظاهرة الامواج تحدث في المركبات نتيجة:",
+    "options": [
+      "الاهتزازات الناتجة عن التسارع والتباطؤ للمركبة.",
+      "الرياح الجانبية ورياح التفريغ التي تؤثر على المركبة.",
+      "الرياح المعاكسة التي تحدث على المركبة.",
+      "لا شيء مما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "764"
+  },
+  {
+    "id": "form-4-q10",
+    "image": "content/sources/heavy-originals/form-4-q10.png",
+    "matchScore": 0.988,
+    "referenceId": "762",
+    "text": "وفقا لحركة السوائل فان ظاهرة الامواج تحدث في :",
+    "options": [
+      "المركبات المزودة بصناديق مغلقة.",
+      "مركبات الصهريج.",
+      "مركبات القاطرة والمقطورة.",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "764"
+  },
+  {
+    "id": "form-4-q11",
+    "image": "content/sources/heavy-originals/form-4-q11.png",
+    "matchScore": 0.927,
+    "referenceId": "761",
+    "text": "إن نظام التعليق الهوائي في المركبات افضل من الشرائح الزنبركية (الريش) في مقاومة الانقلاب",
+    "options": [
+      "صحيح.",
+      "خطأ ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "769"
+  },
+  {
+    "id": "form-4-q12",
+    "image": "content/sources/heavy-originals/form-4-q12.png",
+    "matchScore": 0.998,
+    "referenceId": "760",
+    "text": "عند قيادة المركبات التي تجر المقطورات أو أنصاف المقطورات والحافلات على المنعطفات:",
+    "options": [
+      "يجب القيادة بحذر وحرص شديدين .",
+      "يجب القيام بالمناورات الطويلة عند الالتفاف لجهة اليمين أو اليسار .",
+      "يجب إستخدام مقود التوجيه بشدة خوفاً من عملية الانفلات وخاصة عند المنعطفات المتتالية لجهة اليمين واليسار .",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "827"
+  },
+  {
+    "id": "form-4-q13",
+    "image": "content/sources/heavy-originals/form-4-q13.png",
+    "matchScore": 0.995,
+    "referenceId": "759",
+    "text": "عند قيادة المركبات ذات الصناديق المغلقة (Box vans) والحافلات اثناء وجود رياح جانبية:",
+    "options": [
+      "تجنب زيادة سرعة المركبة .",
+      "يجب المسير على الجسور المعلقة والمفتوحة.",
+      "يجب زيادة سرعة المركبة بحيث تبعد السائق عن اماكن الخطر.",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "655"
+  },
+  {
+    "id": "form-4-q14",
+    "image": "content/sources/heavy-originals/form-4-q14.png",
+    "matchScore": 0.957,
+    "referenceId": "758",
+    "text": "ان زيادة سرعة المركبة بوجود رياح شديدة، يزيد من احتمالية تدهور وانقلاب المركبة:",
+    "options": [
+      "نعم .",
+      "لا ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "157"
+  },
+  {
+    "id": "form-4-q15",
+    "image": "content/sources/heavy-originals/form-4-q15.png",
+    "matchScore": 1.0,
+    "referenceId": "757",
+    "text": "ان وجود الرياح الجانبية الشديدة ممكن ان يؤدي الى :",
+    "options": [
+      "انقلاب المركبات الكبيرة .",
+      "توقف الفرامل عن العمل .",
+      "زيادة سرعة المركبة وخاصة على الطرق السريعة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "686"
+  },
+  {
+    "id": "form-4-q16",
+    "image": "content/sources/heavy-originals/form-4-q16.png",
+    "matchScore": 0.982,
+    "referenceId": "812",
+    "text": "يجب أن لا تقل قوة المحرك نسبة إلى الوزن الاجمالي للمركبة أو مجموعة المركبات عن:",
+    "options": [
+      "(4) حصان لكل طن.",
+      "(4.5) حصان لكل طن.",
+      "(5) حصان لكل طن.",
+      "(5.5) حصان لكل طن."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "776"
+  },
+  {
+    "id": "form-4-q17",
+    "image": "content/sources/heavy-originals/form-4-q17.png",
+    "matchScore": 1.0,
+    "referenceId": "756",
+    "text": "تتأثر المركبات بقوى الطرد المركزي على:",
+    "options": [
+      "المنحدرات .",
+      "المنعطفات .",
+      "المرتفعات .",
+      "الطرق المستوية ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "757"
+  },
+  {
+    "id": "form-4-q18",
+    "image": "content/sources/heavy-originals/form-4-q18.png",
+    "matchScore": 0.969,
+    "referenceId": "755",
+    "text": "إن المجهود لايقاف مركبة ثقيلة محملة هو اقل بكثير من المجهود المطلوب لايقاف مركبة صالون صغيرة تسير بنفس السرعة لأن وزنها الثقيل يزيد من قوة الإحتكاك وبالتالي تتوقف بشكل اسرع:",
+    "options": [
+      "نعم .",
+      "لا"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "800"
+  },
+  {
+    "id": "form-4-q19",
+    "image": "content/sources/heavy-originals/form-4-q19.png",
+    "matchScore": 0.949,
+    "referenceId": "754",
+    "text": "عند استخدام الفرامل لتقليل السرعة فان طاقة الحركة تتحول الى طاقة:",
+    "options": [
+      "حرارية.",
+      "حركية.",
+      "لاشئ مماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "848"
+  },
+  {
+    "id": "form-4-q20",
+    "image": "content/sources/heavy-originals/form-4-q20.png",
+    "matchScore": 0.986,
+    "referenceId": "753",
+    "text": "عند استخدام الفرامل لتقليل السرعة في المنحدرات الطويلة:",
+    "options": [
+      "تزداد فاعلية الفرامل نتيجة تدفق التيار الهوائي والذي بدوره يعمل كمبرد .",
+      "لاتتأثر الفرامل لأنها مصنعة من مواد مقامة للحرارة وذات قدرة على التحمل التحمل.",
+      "تفقد الفرامل فاعليتها نتيجة الحرارة .",
+      "لاشئ مماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "818"
+  },
+  {
+    "id": "form-4-q21",
+    "image": "content/sources/heavy-originals/form-4-q21.png",
+    "matchScore": 0.997,
+    "referenceId": "752",
+    "text": "عند تفريغ حمولة القلابات من الخلف يجب:",
+    "options": [
+      "أن تكون المركبة على سطح مستو وصلب .",
+      "أن تكون المركبة على منحدرصلب .",
+      "أن تكون المركبة على مرتفع صلب .",
+      "حالة سطح الطريق لاتؤثر على تفريغ الحمولة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "747"
+  },
+  {
+    "id": "form-4-q22",
+    "image": "content/sources/heavy-originals/form-4-q22.png",
+    "matchScore": 1.0,
+    "referenceId": "751",
+    "text": "من بعض مسببات تأرجح المقطورات:",
+    "options": [
+      "استخدام الغيارات الخفيفة عند المسير بسرعة عالية.",
+      "توجيه مقود القيادة إلى اليمين أو اليسار بحدة وسرعة .",
+      "استخدام الفرامل عند صعود المرتفعات .",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "818"
+  },
+  {
+    "id": "form-4-q23",
+    "image": "content/sources/heavy-originals/form-4-q23.png",
+    "matchScore": 0.98,
+    "referenceId": "750",
+    "text": "من أسباب الوقوع في حالة التسبيع:",
+    "options": [
+      "نتيجة الإصطدام .",
+      "الالتفاف الحاد بواسطة (الستيرنج) .",
+      "قفل عجلات القاطرة وليس عجلات المقطورة .",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "773"
+  },
+  {
+    "id": "form-4-q24",
+    "image": "content/sources/heavy-originals/form-4-q24.png",
+    "matchScore": 0.994,
+    "referenceId": "749",
+    "text": "المسبب الرئيسي لوقوع المركبات في حالة التسبيع:",
+    "options": [
+      "عدم استخدام الغيارات العكسية (الثقيلة) عند المسير بسرعة عالية .",
+      "عدم رفع القدم عن دواسة الكلتش اثناء تبديل الغيارات العكسية بشكل سريع.",
+      "بسبب استخدام الفرامل بشكل مفاجئ وقوي .",
+      "بسبب استخدام اجهزة تخفيض وتحديد السرعة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "818"
+  },
+  {
+    "id": "form-4-q25",
+    "image": "content/sources/heavy-originals/form-4-q25.png",
+    "matchScore": 0.981,
+    "referenceId": "748",
+    "text": "إن التسارع المفاجئ أو التباطؤ المفاجئ يمكن أن يفقد العجلات تلامسها مع سطح الطريق وذلك يؤدي الى",
+    "options": [
+      "منع حصول الانزلاق عند استخدام الفرامل .",
+      "التدهور والانقلاب .",
+      "جميع ماذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "849"
+  },
+  {
+    "id": "form-4-q26",
+    "image": "content/sources/heavy-originals/form-4-q26.png",
+    "matchScore": 0.984,
+    "referenceId": "747",
+    "text": "إن الاحتكاك الحاصل بين عجلات المركبة مع سطح الطريق:",
+    "options": [
+      "يساعدة على مسير المركبة على سطح الطريق .",
+      "يساعدة على تغيير الاتجاه سواء كان الانعطاف نحو اليمين أو اليسار .",
+      "يساعدة على عملية الوقوف .",
+      "جميع ما ذكر ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "836"
+  },
+  {
+    "id": "form-4-q27",
+    "image": "content/sources/heavy-originals/form-4-q27.png",
+    "matchScore": 0.951,
+    "referenceId": "746",
+    "text": "إن أي حركة مفاجئة في عملية التوجية تؤدي إلى خلخلة الحمولة وتحركها وبالتالي فإن حركة الحمولة تؤدي إلى عدم استقرار المركبة:",
+    "options": [
+      "نعم .",
+      "لا"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "810"
+  },
+  {
+    "id": "form-4-q28",
+    "image": "content/sources/heavy-originals/form-4-q28.png",
+    "matchScore": 0.971,
+    "referenceId": "745",
+    "text": "عند استخدام أنوار المركبات الثقيلة يجب:",
+    "options": [
+      "استخدام الانوار الامامية حين المسير خلف مركبة اخرى .",
+      "استخدام أنوار التلاقي حين المسير خلف مركبة اخرى .",
+      "استخدام الانوار الاضافية الموجودة في مركبتك في جميع الظروف .",
+      "تكرار الوميض (فلاش) للانوار الامامية عند المسير خلف"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "649"
+  },
+  {
+    "id": "form-4-q29",
+    "image": "content/sources/heavy-originals/form-4-q29.png",
+    "matchScore": 0.931,
+    "referenceId": "744",
+    "text": "في حال وجود المركبة في موقف للمركبات الثقيلة يجب اضاءة انوار المركبة حتى لو كان الموقف مضاء ومزودا بالشواخص المرورية اللازمة :",
+    "options": [
+      "صحيح",
+      "خاطيء"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "636"
+  },
+  {
+    "id": "form-4-q30",
+    "image": "content/sources/heavy-originals/form-4-q30.png",
+    "matchScore": 0.963,
+    "referenceId": "743",
+    "text": "من المعدات اللازم توفرها في المركبة الثقيلة قبل الانطلاق في رحلة :",
+    "options": [
+      "مجرفة وكريك",
+      "دليل بارقام الهواتف الضرورية",
+      "أ+ب",
+      "لا شئ مما ذكر"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "879"
+  },
+  {
+    "id": "form-4-q31",
+    "image": "content/sources/heavy-originals/form-4-q31.png",
+    "matchScore": 0.86,
+    "referenceId": "742",
+    "text": "فرامل المقطورة التي تدار بالشكل اليدوي تستخدم في حالة :",
+    "options": [
+      "الوقوف بامان في حالة الانحدار من على مرتفع",
+      "الاوضاع العادية للتوقف",
+      "أ+ب"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "848"
+  },
+  {
+    "id": "form-4-q32",
+    "image": "content/sources/heavy-originals/form-4-q32.png",
+    "matchScore": 0.957,
+    "referenceId": "741",
+    "text": "يجب ان يدهن الملصق الارشادي بالون البرتقالي ما عدا الجزء المخصص للاشارة التحذيرية يكون باللون الابيض :",
+    "options": [
+      "نعم",
+      "لا"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "707"
+  },
+  {
+    "id": "form-4-q33",
+    "image": "content/sources/heavy-originals/form-4-q33.png",
+    "matchScore": 0.927,
+    "referenceId": "790",
+    "text": "تشمل المقطورات الخفيفة ما يلي:",
+    "options": [
+      "المقطورات التي يزيد وزنها الفارغ على 750 كغم.",
+      "الكرفانات المعدّة للنوم والنزهة.",
+      "المعدات والأجهزة غير التي تستخدم في الأعمال الإنشائية أو الزراعية أو الصناعية.",
+      "جميع ما ذكر"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "835"
+  },
+  {
+    "id": "form-4-q34",
+    "image": "content/sources/heavy-originals/form-4-q34.png",
+    "matchScore": 0.954,
+    "referenceId": "789",
+    "text": "المقطورات وأنصاف المقطورات تسجل كلاهما معا وتصدر رخصة سير واحدة خاصة بها.",
+    "options": [
+      "نعم .",
+      "لا ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "795"
+  },
+  {
+    "id": "form-4-q35",
+    "image": "content/sources/heavy-originals/form-4-q35.png",
+    "matchScore": 0.998,
+    "referenceId": "788",
+    "text": "من فوائد أجهزة تخفيض السرعة:",
+    "options": [
+      "توفير تكاليف التشغيل والصيانة لنظام الفرامل.",
+      "تسجيل السرعات التي سار بها سائق المركبة خلال رحلته.",
+      "إلزام سائق المركبة على حدود السرعة القصوى",
+      "المحافظة على عمر الإطارات الأمامية لأن الخلفية هي فقط تتعرض للهريان."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "787"
+  },
+  {
+    "id": "form-4-q36",
+    "image": "content/sources/heavy-originals/form-4-q36.png",
+    "matchScore": 0.956,
+    "referenceId": "787",
+    "text": "إن وظيفة مخفض السرعة Speed Retarder هي :",
+    "options": [
+      "إلزام السائقين بالتقيد بحدود السرعة التي تم برمجته عليها ويمنع تجاوز حدود السرعة المقررة.",
+      "إلزام السائقين بحدود السرعة الدنيا والتي يجب على السائقين تجاوزها.",
+      "تسجيل السرعات التي قامت بها المركبة خلال الرحلة",
+      "العمل على تخفيض سرعة المركبة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "786"
+  },
+  {
+    "id": "form-4-q37",
+    "image": "content/sources/heavy-originals/form-4-q37.png",
+    "matchScore": 0.964,
+    "referenceId": "786",
+    "text": "وظيفة جهاز تسجيل الحركة التاكوغراف (TACHOGRAPH) هي:",
+    "options": [
+      "إلزام السائقين بالتقيد بحدود السرعة التي تم برمجته عليها ويمنع تجاوز حدود السرعة المقررة.",
+      "إلزام السائقين بحدود السرعة الدنيا والتي يجب على السائقين تجاوزها.",
+      "تسجيل السرعات التي قامت بها المركبة خلال الرحلة.",
+      "العمل على تخفيض سرعة المركبة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "787"
+  },
+  {
+    "id": "form-4-q38",
+    "image": "content/sources/heavy-originals/form-4-q38.png",
+    "matchScore": 0.951,
+    "referenceId": "785",
+    "text": "وظيفة جهاز تحديد السرعة (Speed Limiter) هي:",
+    "options": [
+      "إلزام السائقين بالتقيد بحدود السرعة التي تم برمجته عليها",
+      "إلزام السائقين بحدود السرعة الدنيا والتي يجب على السائقين تجاوزها",
+      "تسجيل السرعات التي قامت بها المركبة خلال الرحلة",
+      "العمل على تخفيض سرعة المركبة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "787"
+  },
+  {
+    "id": "form-4-q39",
+    "image": "content/sources/heavy-originals/form-4-q39.png",
+    "matchScore": 0.974,
+    "referenceId": "784",
+    "text": "تجهز سيارات الركوب المتوسطة والتي يزيد عدد ركابها عن (20) راكباً والحافلات وسيارات الشحن التي وزنها الإجمالي (8) طن فما فوق بطفاية للمحرك (Engine Brake).",
+    "options": [
+      "نعم.",
+      "لا."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "780"
+  },
+  {
+    "id": "form-4-q40",
+    "image": "content/sources/heavy-originals/form-4-q40.png",
+    "matchScore": 0.967,
+    "referenceId": "783",
+    "text": "يجب ان لا تقل نسبة فعالية مكبح الخدمة (Service Brake) في المركبات الثقيلة عن:",
+    "options": [
+      "45% على العجلات الأمامية و25% على العجلات الخلفية.",
+      "25% على العجلات الأمامية و45% على العجلات الخلفية.",
+      "لاشئ مما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "875"
+  },
+  {
+    "id": "form-4-q41",
+    "image": "content/sources/heavy-originals/form-4-q41.png",
+    "matchScore": 0.985,
+    "referenceId": "782",
+    "text": "يجب ان لا تزيد كثافة الدخان المنبعث من عوادم محركات الديزل في محرك المركبات الثقيلة عن :",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "776"
+  },
+  {
+    "id": "form-4-q42",
+    "image": "content/sources/heavy-originals/form-4-q42.png",
+    "matchScore": 0.979,
+    "referenceId": "781",
+    "text": "‌ في المركبات الثقيلة لايسمح بزيادة الارتفاع الخلفي (الجزء المعلق) بالسيارة عن سطح الطريق لأكثرمن:",
+    "options": [
+      "(55 سم).",
+      "(65 سم).",
+      "(75 سم).",
+      "(85 سم)."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "654"
+  },
+  {
+    "id": "form-4-q43",
+    "image": "content/sources/heavy-originals/form-4-q43.png",
+    "matchScore": 0.931,
+    "referenceId": "780",
+    "text": "يسمح للمركبات التي يتجاوز وزنها الاجمالي خمسة اطنان عن الوزن المسموح به السير على الطرق بعد الحصول على تصريح مسبق.",
+    "options": [
+      "نعم.",
+      "لا."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "784"
+  },
+  {
+    "id": "form-4-q44",
+    "image": "content/sources/heavy-originals/form-4-q44.png",
+    "matchScore": 0.941,
+    "referenceId": "779",
+    "text": "في حال وجود حمولة لا يمكن تجزئتها يجب ان لا يزيد الوزن الاجمالي عن:",
+    "options": [
+      "(20%) بشرط وجود التصاريح اللازمة.",
+      "(25%) بشرط وجود التصاريح اللازمة.",
+      "(30%) بشرط وجود التصاريح اللازمة.",
+      "(35%) بشرط وجود التصاريح اللازمة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "873"
+  },
+  {
+    "id": "form-4-q45",
+    "image": "content/sources/heavy-originals/form-4-q45.png",
+    "matchScore": 0.993,
+    "referenceId": "778",
+    "text": "الوزن الإجمالي للمركبة يعني :",
+    "options": [
+      "وزن المركبة فارغة مضافا اليه وزن الحمولة.",
+      "وزن المركبة فارغة مطروحا منه وزن الحمولة.",
+      "وزن المركبة فارغة فقط.",
+      "وزن الحمولة فقط."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "770"
+  },
+  {
+    "id": "form-4-q46",
+    "image": "content/sources/heavy-originals/form-4-q46.png",
+    "matchScore": 0.789,
+    "referenceId": "777",
+    "text": "يجب ان لا تزيد حمولة مجموعة المحاور المتعاقبة الامامية القابلة للتوجية في المركبات الثقيلة عن:",
+    "options": [
+      "(6) طن/محور",
+      "(7) طن/محور",
+      "(8) طن/محور",
+      "(9) طن/محور"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "776"
+  },
+  {
+    "id": "form-4-q47",
+    "image": "content/sources/heavy-originals/form-4-q47.png",
+    "matchScore": 0.915,
+    "referenceId": "776",
+    "text": "المحور الامامي القابل للتوجية في المركبات الثقيلة اذا كان مفردا يجب ان لا تزيد حمولته عن:",
+    "options": [
+      "(6) طن",
+      "(7) طن",
+      "(8) طن",
+      "(9) طن"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "777"
+  },
+  {
+    "id": "form-4-q48",
+    "image": "content/sources/heavy-originals/form-4-q48.png",
+    "matchScore": 0.821,
+    "referenceId": "775",
+    "text": "يجب أن لا يتجاوز بروز الحمولة عن مقدمة أو مؤخرة المركبة:",
+    "options": [
+      "نصف متر.",
+      "متر.",
+      "متر ونصف.",
+      "2 متر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "924"
+  },
+  {
+    "id": "form-4-q49",
+    "image": "content/sources/heavy-originals/form-4-q49.png",
+    "matchScore": 0.993,
+    "referenceId": "774",
+    "text": "على السائق الانتباه لطول المركبة سواء كانت مقطورة أو ذات شاصي طويل عند:",
+    "options": [
+      "الدخول إلى مناطق الدواوير أو أشباه الدواوير.",
+      "الطرق السريعة.",
+      "الجسور.",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "645"
+  },
+  {
+    "id": "form-4-q50",
+    "image": "content/sources/heavy-originals/form-4-q50.png",
+    "matchScore": 0.861,
+    "referenceId": "773",
+    "text": "من المناطق التي تحدد فيها اطوال للمركبات :",
+    "options": [
+      "الانفاق.",
+      "الجسور.",
+      "ابراج المراقبة.",
+      "جميع ماذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "872"
+  },
+  {
+    "id": "form-4-q51",
+    "image": "content/sources/heavy-originals/form-4-q51.png",
+    "matchScore": 0.866,
+    "referenceId": "772",
+    "text": "حدد الارتفاع الاجمالي للمركبات بأن لا يتجاوز:",
+    "options": [
+      "(380)سم",
+      "(400)سم",
+      "(420)سم",
+      "(440)سم"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "771"
+  },
+  {
+    "id": "form-4-q52",
+    "image": "content/sources/heavy-originals/form-4-q52.png",
+    "matchScore": 0.975,
+    "referenceId": "771",
+    "text": "حدد نظام الابعاد القصوى للمركبات العرض الاجمالي لجميع المركبات بأن لا يتجاوز :",
+    "options": [
+      "(240)سم",
+      "(250)سم",
+      "(260)سم",
+      "(270)سم"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "772"
+  },
+  {
+    "id": "form-4-q53",
+    "image": "content/sources/heavy-originals/form-4-q53.png",
+    "matchScore": 0.974,
+    "referenceId": "770",
+    "text": "طاقة الحركة في المركبة المتوقفة تساوي:",
+    "options": [
+      "صفر.",
+      "ضعف وزن المركبة.",
+      "ضعفي وزن المركبة.",
+      "ثلاث اضعاف وزن المركبة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "778"
+  },
+  {
+    "id": "form-4-q54",
+    "image": "content/sources/heavy-originals/form-4-q54.png",
+    "matchScore": 0.951,
+    "referenceId": "769",
+    "text": "من اخطاء عدم ثبات الحمولة التي تؤدي الى تناثر الحمولة :",
+    "options": [
+      "الانزلاق.",
+      "فشل التربيط.",
+      "فشل نظام التعليق.",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "767"
+  },
+  {
+    "id": "form-4-q55",
+    "image": "content/sources/heavy-originals/form-4-q55.png",
+    "matchScore": 0.941,
+    "referenceId": "768",
+    "text": "من الاسباب الميكانيكية التي تؤدي الى تناثر الحمولة:",
+    "options": [
+      "فشل نظام التعليق.",
+      "التسارع والتباطؤ المفاجئ.",
+      "الانزلاق.",
+      "تركيب الحمولة بشكل غير جيد."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "767"
+  },
+  {
+    "id": "form-4-q56",
+    "image": "content/sources/heavy-originals/form-4-q56.png",
+    "matchScore": 0.952,
+    "referenceId": "767",
+    "text": "من اخطاء القيادة التي تؤدي الى تناثر الحمولة :",
+    "options": [
+      "الانزلاق.",
+      "فشل التربيط.",
+      "فشل نظام التعليق.",
+      "جميع ما ذكر."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "769"
+  },
+  {
+    "id": "form-4-q57",
+    "image": "content/sources/heavy-originals/form-4-q57.png",
+    "matchScore": 0.998,
+    "referenceId": "766",
+    "text": "قيادة مركبة صهريج على نفس مسار المنعطف بسرعة عالية ودون عمل توسعة اثناء الانعطاف يؤدي الى :",
+    "options": [
+      "ارتفاع عجلات المركبة الخارجية عن سطح الطريق.",
+      "ارتفاع عجلات المركبة الداخلية القريبة من المنعطف عن مستوى سطح الطريق ."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "765"
+  },
+  {
+    "id": "form-4-q58",
+    "image": "content/sources/heavy-originals/form-4-q58.png",
+    "matchScore": 0.974,
+    "referenceId": "815",
+    "text": "إن جهاز مثبت السرعة (speed limiter ) مثبت على سرعة قصوى :",
+    "options": [
+      "(80) كم/ساعة.",
+      "(90) كم/ساعة.",
+      "(100) كم/ساعة.",
+      "(110) كم/ساعة."
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "758"
+  },
+  {
+    "id": "form-4-q59",
+    "image": "content/sources/heavy-originals/form-4-q59.png",
+    "matchScore": 0.995,
+    "referenceId": "814",
+    "text": "من فوائد محدد السرعة (speed limiter) :",
+    "options": [
+      "توفير إستهلاك الوقود .",
+      "تخفيض كلفة الصيانة.",
+      "المحافظة على الإطارت.",
+      "جميع ما ذكر"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "767"
+  },
+  {
+    "id": "form-4-q60",
+    "image": "content/sources/heavy-originals/form-4-q60.png",
+    "matchScore": 0.922,
+    "referenceId": "813",
+    "text": "تزود سيارات الشحن والمقطورات وأنصاف المقطورات بعوارض حماية جانبية إذا زادت مسافتها المحورية عن :",
+    "options": [
+      "(2) متر",
+      "(2.5) متر",
+      "(3) متر",
+      "(3.5) متر"
+    ],
+    "answer": null,
+    "status": "awaiting-review",
+    "alternativeReferenceId": "794"
+  }
+]

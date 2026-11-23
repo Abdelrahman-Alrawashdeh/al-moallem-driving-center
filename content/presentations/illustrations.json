@@ -1,0 +1,68 @@
+[
+  {
+    "material": "material-03",
+    "slide": 13,
+    "image": "/assets/materials/illustrations/material-03-013.png",
+    "sha256": "a52b6ce44673840f33bd45b609d044736a005788f8a1ff239d5c09c13f9ad8d8"
+  },
+  {
+    "material": "material-07",
+    "slide": 20,
+    "image": "/assets/materials/illustrations/material-07-020.jpeg",
+    "sha256": "e99e617617e61f0b07ea67d4db19efa20d454d109749fe1bdea991bafd254c80"
+  },
+  {
+    "material": "material-07",
+    "slide": 21,
+    "image": "/assets/materials/illustrations/material-07-021.jpeg",
+    "sha256": "8739462ec551c192a4a08e4947de41fe167f6acbabc33357743888bc3e3da29a"
+  },
+  {
+    "material": "material-07",
+    "slide": 22,
+    "image": "/assets/materials/illustrations/material-07-022.jpeg",
+    "sha256": "cac0ba42cc2ff1096511dd0b1383e1dfcd6b6b82aeeef266457a1d7d3e84b4c1"
+  },
+  {
+    "material": "material-07",
+    "slide": 23,
+    "image": "/assets/materials/illustrations/material-07-023.jpeg",
+    "sha256": "0cf3ef260f695bd96a84ba21087395700f165889d2ec3860bd7dab146a58015d"
+  },
+  {
+    "material": "material-07",
+    "slide": 25,
+    "image": "/assets/materials/illustrations/material-07-025.png",
+    "sha256": "062f445e9a07889031cd4e60381fb58d257283f6c4ceba91fa2207d72fbcbe0a"
+  },
+  {
+    "material": "material-07",
+    "slide": 28,
+    "image": "/assets/materials/illustrations/material-07-028.jpeg",
+    "sha256": "012341bdb4ff171c7be3a4c52b79af3ac78ed5f2aa60ee3b5dbff8290e142aae"
+  },
+  {
+    "material": "material-07",
+    "slide": 30,
+    "image": "/assets/materials/illustrations/material-07-030.jpeg",
+    "sha256": "1cb3ed41a00dbbfac2dce6c6ebbe7b3c2d4d93e12fbf668c6f9399cbca9b56b3"
+  },
+  {
+    "material": "material-07",
+    "slide": 32,
+    "image": "/assets/materials/illustrations/material-07-032.jpeg",
+    "sha256": "4af4364ecdfa46ade77f66349d11750600a98e49cd3e85401cc39cab3722c450"
+  },
+  {
+    "material": "material-07",
+    "slide": 33,
+    "image": "/assets/materials/illustrations/material-07-033.jpeg",
+    "sha256": "406a18470b58c0721e3c9521619317d636209005ee3f73de3d31a3178b783f8f"
+  },
+  {
+    "material": "material-07",
+    "slide": 34,
+    "image": "/assets/materials/illustrations/material-07-034.jpeg",
+    "sha256": "aa60447fb3d8c9db5a0ebf5cc4099f905335141ff827a1e39056408039dc3b58"
+  }
+]
