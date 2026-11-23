@@ -1,0 +1,22 @@
+{
+  "name": "al-moallem-driving-center",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist",
+    "deploy": "npm run build && npx wrangler deploy",
+    "test": "node scripts/verify.mjs",
+    "package": "npm run build && powershell -NoProfile -File scripts/package.ps1",
+    "test:exam": "node --test scripts/test-exam-engine.mjs && node scripts/verify-exam.mjs",
+    "test:practice": "node scripts/verify-practice.mjs",
+    "test:materials": "node scripts/verify-materials.mjs",
+    "test:return": "node scripts/verify-return.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "wrangler": "^4.137.0"
+  }
+}

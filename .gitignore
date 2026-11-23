@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output and deployment bundle
+dist/
+al-moallem-cloudflare.zip
+.wrangler/
+
+# Generated test artifacts
+artifacts/
+
+# Local tooling (PyMuPDF binaries for content extraction)
+.tools/
+
+# Secrets and private notes - never commit
+.env*
+!.env.example
+hosting & link.txt
+
+# One-time local publish helper
+publish-to-github.ps1
+
+# OS / editor files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
