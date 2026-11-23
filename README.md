@@ -6,7 +6,7 @@
 
 **موقع عربي متكامل لمركز تعليم قيادة في الأردن: تعريف بالمركز، حجز الدروس، بنك أسئلة نظرية، قاعة امتحانات بمؤقّت، ومكتبة مواد تعليمية.**
 
-[![Live](https://img.shields.io/badge/الموقع_المباشر-almoallem.centerjo.workers.dev-F5B700?style=for-the-badge)](https://almoallem.centerjo.workers.dev/)
+[![Live](https://img.shields.io/badge/Live_Website-almoallem.centerjo.workers.dev-F5B700?style=for-the-badge)](https://almoallem.centerjo.workers.dev/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
